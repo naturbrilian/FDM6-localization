@@ -1627,6 +1627,22 @@ msgid "Disk is missing"
 msgstr "Disk tidak ada"
 
 msgctxt "DownloadsList|"
+msgid "duplicates (%1)"
+msgstr ""
+
+msgctxt "DownloadsList|"
+msgid "invalid (%1)"
+msgstr ""
+
+msgctxt "DownloadsList|"
+msgid "unsupported (%1)"
+msgstr ""
+
+msgctxt "DownloadsList|"
+msgid "Skipped downloads"
+msgstr ""
+
+msgctxt "DownloadsList|"
 msgid "Download links (%1 selected)"
 msgstr "Tautan unduhan (%1 dipilih)"
 
@@ -1637,6 +1653,10 @@ msgstr "Pilih Semua"
 msgctxt "DownloadsList|"
 msgid "Select none"
 msgstr "Tidak memilih apapun"
+
+msgctxt "DownloadsPage|"
+msgid "Show all downloads"
+msgstr ""
 
 msgctxt "DownloadsPage|"
 msgid "Download list is empty."
@@ -1978,14 +1998,6 @@ msgctxt "DownloadsViewItem_V2|"
 msgid "n/a"
 msgstr ""
 
-msgctxt "DownloadsViewItem_V2|"
-msgid "Delete file"
-msgstr "Hapus berkas"
-
-msgctxt "DownloadsViewItem_V2|"
-msgid "Remove from list"
-msgstr "Hapus dari daftar"
-
 msgctxt "DownloadsViewStatusItem|"
 msgid "Queued"
 msgstr "Dalam antrian"
@@ -2013,6 +2025,10 @@ msgstr "Ditunda"
 msgctxt "DownloadsViewStatusItem|"
 msgid "Complete"
 msgstr "Selesai"
+
+msgctxt "DownloadsViewTools|"
+msgid "Downloads: %1"
+msgstr ""
 
 msgctxt "EditTagDialog|"
 msgid "Edit tag"
@@ -2679,6 +2695,10 @@ msgstr "Kecepatan Unggahan:"
 msgctxt "GeneralTab_V2|"
 msgid "Web page"
 msgstr "Situs web"
+
+msgctxt "GeneralTab_V2|"
+msgid "File"
+msgstr "Berkas"
 
 msgctxt "HashAlgorithmCombobox|"
 msgid "MD5"
@@ -3573,6 +3593,10 @@ msgctxt "Page|"
 msgid "Connections"
 msgstr "Sambungan"
 
+msgctxt "PickFileButton|"
+msgid "Browse..."
+msgstr ""
+
 msgctxt "PlayAsap|"
 msgid "Play file while it is still downloading"
 msgstr "Putar berkas saat masih mengunduh"
@@ -4280,6 +4304,14 @@ msgstr "Tidak ditemukan"
 msgctxt "QObject|"
 msgid "Incompatible version"
 msgstr "Versi tidak kompaibel"
+
+msgctxt "QObject|"
+msgid "Security check failed"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Already exists"
+msgstr ""
 
 msgctxt "QObject|"
 msgid "Host not found"
@@ -5560,3 +5592,11 @@ msgstr "Laporan telah dikirim. Terima kasih atas kerja sama Anda!"
 msgctxt "main|"
 msgid "Remote connection to %1"
 msgstr "Sambungan jarak jauh ke %1"
+
+msgctxt "main|"
+msgid "Add download"
+msgstr "Tambahkan unduhan"
+
+msgctxt "main|"
+msgid "New download"
+msgstr "Unduhan baru"

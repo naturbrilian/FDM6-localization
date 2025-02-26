@@ -86,7 +86,7 @@ msgstr "Entrer l'URL ou choisir le fichier torrent"
 
 msgctxt "QObject|"
 msgid "Drag-and-drop URL or torrent file"
-msgstr ""
+msgstr "Glisser-déposer une URL ou un fichier TORRENT"
 
 msgctxt "QObject|"
 msgid "Merge trackers"
